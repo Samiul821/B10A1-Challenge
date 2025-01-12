@@ -272,3 +272,121 @@
     height: 99%;
     border-radius: 16px;
 }
+/* third section */
+#third-section{
+    width: 1310px;
+    height: 429px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0 auto 110px auto;
+}
+.section3-title-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.section3-title{
+    color: #0D1321;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.section3-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+.current-container{
+    display: flex;
+    gap: 24px;
+}
+.html-container{
+    padding: 40px;
+    width: 364px;
+    height: 200px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.html{
+    margin-bottom: 24px;
+}
+.html-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.html-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.html-subtitle{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.css-container{
+    padding: 40px;
+    width: 364px;
+    height: 200px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.css{
+    margin-bottom: 24px;
+}
+.css-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.css-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.css-subtitle{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.js-container{
+    padding: 40px;
+    width: 364px;
+    height: 200px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.js{
+    margin-bottom: 24px;
+}
+.js-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.js-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.js-subtitle{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
