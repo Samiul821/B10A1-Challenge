@@ -1,0 +1,30 @@
+.azeret-mono{
+    font-family: Azeret Mono;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin: 38px 150px 36px 150px;
+}
+.nav-title{
+    color: #0D1321;
+    font-size: 28px;
+    font-weight: 800;
+}
+.nav{
+    list-style: none;
+}
+.nav-btn{
+    padding: 17px 24px 17px 17px;
+    box-sizing: border-box;
+    border: 1px solid #0D1321;
+    border-radius: 8px;
+    opacity: 0.8;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600px;
+}
