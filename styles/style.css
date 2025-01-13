@@ -390,3 +390,146 @@
     font-weight: 700;
     text-decoration-line: underline;
 }
+/* fourth section */
+#fourth-section{
+    width: 1310px;
+    height: 828px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0 auto 50px auto;
+}
+.section4-title-container{
+    text-align: center;
+}
+.section4-title{
+    color: #0D1321;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.section4-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.react-container{
+    width: 1310px;
+    height: 219px;
+    display: flex;
+    flex-direction: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+}
+.react{
+    width: 94.78px;
+    height: 108px;
+    margin: auto 24px auto 0;
+}
+.react-title-container{
+    margin: auto 0 auto 0;
+}
+.react-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.react-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.react-subtitle{
+    color: #0D1321;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.node-container{
+    width: 1310px;
+    height: 219px;
+    display: flex;
+    flex-direction: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+}
+.node{
+    width: 143.51px;
+    height: 88px;
+    margin: 0 24px;
+}
+.node-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.node-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.node-subtitle{
+    color: #0D1321;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.mongo-container{
+    width: 1310px;
+    height: 219px;
+    display: flex;
+    flex-direction: flex;
+    justify-content: flex-start;
+    align-items:center;
+    padding: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+}
+.mongo{
+    width: 108px;
+    height: 108px;
+    margin: 0px 24px;
+}
+.mongo-title{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.mongo-description{
+    opacity: 0.7;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.mongo-subtitle{
+    color: #0D1321;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
